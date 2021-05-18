@@ -6,9 +6,9 @@
 
 # Use
 
-    $configuration = [ 'ftp_server'  => 'alfa3205.alfahosting-server.de',
-                       'ftp_username'=> 'web24398854f3',
-                       'ftp_userpass'=> '9Wejghz2',
+    $configuration = [ 'ftp_server'  => 'XXX',
+                       'ftp_username'=> 'XXX',
+                       'ftp_userpass'=> '9WejXXXghz2',
                        'file_name'   => 'TEST14.csv' ];
 
     $dataArray = [ 'example 1' => '1',
