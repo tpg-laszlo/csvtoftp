@@ -8,8 +8,8 @@
 
     $configuration = [ 'ftp_server'  => 'XXX',
                        'ftp_username'=> 'XXX',
-                       'ftp_userpass'=> '9WejXXXghz2',
-                       'file_name'   => 'TEST14.csv' ];
+                       'ftp_userpass'=> 'XXX',
+                       'file_name'   => 'TEST15.csv' ];
 
     $dataArray = [ 'example 1' => '1',
                    '....'      => '2'];
