@@ -1,0 +1,19 @@
+{
+    "name": "arbeit/csv-to-ftp",
+    "authors": [
+        {
+            "name": "laszlopalvoelgyi",
+            "email": "71016236+laszlopalvoelgyi@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php-di/php-di": "^6.3",
+        "symfony/dotenv": "^5.2",
+        "laszlopalvoelgyi/helper": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "CsvFtp\\":"src/"
+        }
+      }
+}
